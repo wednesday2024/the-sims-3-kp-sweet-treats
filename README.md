@@ -1,2 +1,1 @@
-# the-sims-3-kp-sweet-treats
-An easy way to restore The Sims 3: Katy Perry Sweet Treats to The Sims 3 Collection on Steam.
+Keep an eye on this page, I will share the fix here when I am ready to make the fix public.
